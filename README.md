@@ -3,3 +3,6 @@ This Weather App provides users with an intuitive and visually appealing interfa
 
 
 ![image](https://github.com/user-attachments/assets/ca30cd30-357c-4c2d-8665-5816350a3125)
+
+
+Add your OpenWeatherMap api key in ADD_YOUR_API_KEY in script.js
