@@ -1,4 +1,4 @@
-const API_KEY = "f4ad2624110bc8ec8d654285cfde7111";
+const API_KEY = "ADD_YOUR_API_KEY"; //Add your API_KEY 
 
 const locationEl = document.getElementById("location");
 const temperatureEl = document.getElementById("temperature");
